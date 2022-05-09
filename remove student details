@@ -1,0 +1,6 @@
+d={1:'bhargavi',2:'bca',3:49,4:'aditya college'}
+d.clear()
+print(d)
+
+OUTPUT:
+{}
